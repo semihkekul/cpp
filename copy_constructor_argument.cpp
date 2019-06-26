@@ -11,7 +11,7 @@ public:
     }
     
 };
-void func(cExample& copiedArgument){
+void func(cExample copiedArgument){
 
 }
 
