@@ -15,7 +15,7 @@ void func(cExample copiedArgument){
 
 }
 
-int main(){
+int main1(){
     cExample cE(3);
     func(cE);
     return 0;
